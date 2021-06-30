@@ -36,16 +36,16 @@ VMware ESXi é um Hypervisor de nível empresarial tipo 1 desenvolvido pela VMwa
 
 Informações detalhes do Review do Hardware utilizado no Curso:
 
-🐲 COMO MONTAR UM PC XEON 2678 V3 + Gabinete Gamer Lian Li Lancool 215 + Water Cooler Lian Li Galahad
+🐲 COMO MONTAR UM PC XEON 2678 V3 + Gabinete Gamer Lian Li Lancool 215 + Water Cooler Lian Li Galahad<br>
 https://www.youtube.com/watch?v=VSI9VsKOhWo
 
-🐲 Como Fazer o Turbo Unlock Fácil no seu XEON V3 X99 e Undervoltage PT-BR + Testes Antes e depois
+🐲 Como Fazer o Turbo Unlock Fácil no seu XEON V3 X99 e Undervoltage PT-BR + Testes Antes e depois<br>
 https://www.youtube.com/watch?v=d_KtZfNG4RY
 
 💥 SSD NVME LEXAR NM700 Professional M.2 2280 PCIE - Instalação e Testes
 https://www.youtube.com/watch?v=68F5zm6c7Qg
 
-Quer Fluxo de AR ??? Então TOMA !!! Gabinete Gamer Lian Li Lancool 215 Mesh ARGB com 2 FAN de 200 mm
+Quer Fluxo de AR ??? Então TOMA !!! Gabinete Gamer Lian Li Lancool 215 Mesh ARGB com 2 FAN de 200 mm<br>
 https://www.youtube.com/watch?v=7UgIm3kDXAQ
 
 [![Apresentação do Hardware](http://img.youtube.com/vi//0.jpg)]( "Apresentação do Hardware")
