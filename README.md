@@ -26,7 +26,7 @@ Link da Playlist:
 
 Vídeo mostrando o Hardware utilizado para as aulas do Curso GRÁTIS de Hypervisor Open Source (Free Software) utilizando os Appliances: Proxmox-VE, XCP-NG e o VMware ESXi.
 
-Agradecimento especial para o Prof. Leandro Ramos do Site http://professorramos.com/ e do Canal do YouTUBE: ProfessorRamos https://www.youtube.com/professorramos que forneceu o Hardware de Desktop para a preparação desse curso, sem esse equipamento eu não teria a possibilidade de montar o conteúdo para esse e nem gravar as aulas, novamente: MUITO OBRIGADO.
+Agradecimento especial para o Prof. Leandro Ramos do Site http://professorramos.com/ e do Canal do YouTUBE: ProfessorRamos https://www.youtube.com/professorramos que forneceu o Hardware de Desktop para a preparação desse curso, sem esse equipamento eu não teria a possibilidade de montar o conteúdo para esse curso e nem gravar as aulas, novamente: MUITO OBRIGADO.
 
 O Proxmox Virtual Environment é uma plataforma de gerenciamento de virtualização de servidor de código aberto. É uma distribuição Linux baseada em Debian com um Kernel Ubuntu LTS modificado que permite a implantação e gerenciamento de máquinas virtuais e contêineres.
 
