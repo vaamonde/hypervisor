@@ -24,7 +24,7 @@ Link da Playlist:
 
 ## **Apresentação do Hardware utilizado no Curso de Hypervisor Open Source**
 
-Vídeo mostrando o Hardware utilizado para as aulas do Curso GRÁTIS de Hypervisor Open Source (Free Software) utilizando os Appliances: Proxmox-VE, XCP-NG e o VMware ESXi.
+Vídeo mostrando o Hardware utilizado nas aulas do Curso GRÁTIS de Hypervisor Open Source (Free Software) utilizando os Appliances: Proxmox-VE, XCP-NG e o VMware ESXi.
 
 Agradecimento especial para o Prof. Leandro Ramos do Site http://professorramos.com/ e do Canal do YouTUBE: ProfessorRamos https://www.youtube.com/professorramos que forneceu o Hardware de Desktop para a preparação desse curso, sem esse equipamento eu não teria a possibilidade de montar o conteúdo para esse curso e nem gravar as aulas, novamente: MUITO OBRIGADO.
 
@@ -55,7 +55,6 @@ https://www.youtube.com/watch?v=F1xOp8dRS_0
 
 ⚡ SSD Muito Bom e Barato 💥 Review e Testes do SSD ADATA SU630 com 3 anos de Garantia no Brasil<br>
 https://www.youtube.com/watch?v=1WmyQGr9MDg
-
 
 Memoria GLOWAY DDR4 é BOA ??? Review + Testes + Overclock da Memória RAM mais Barata do Mundo !!!<br>
 https://www.youtube.com/watch?v=EaQwTN3l0nU&t
