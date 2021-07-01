@@ -34,6 +34,8 @@ O XCP-ng significa Xen Cloud Platform - New Generation. É uma distribuição tu
 
 VMware ESXi é um Hypervisor de nível empresarial tipo 1 desenvolvido pela VMware para implantar e prover maquinas virtuais. Como hypervisor tipo 1, o ESXi não é um software aplicativo instalado em um sistema operacional; em vez disso, inclui e integra componentes vitais do sistema operacional e um unico núcleo.
 
+![Hardware Hypervisor](00-Projeto-Hypervisor-Hardware.png "Hardware Hypervisor")
+
 Informações detalhes do Review do Hardware utilizado no Curso:
 
 🐲 COMO MONTAR UM PC XEON 2678 V3 + Gabinete Gamer Lian Li Lancool 215 + Water Cooler Lian Li Galahad<br>
