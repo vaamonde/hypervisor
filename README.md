@@ -22,7 +22,7 @@ Site do VMware: https://www.vmware.com/br.html<br>
 ## **Playlist do YouTUBE com todos os Vídeos dos Hypervisor:**
 Link da Playlist: 
 
-## **Apresentação do Hardware utilizado no Curso de Hypervisor Open Source**
+## **🖥😍 Apresentação do Hardware utilizado no Curso de Hypervisor (Virtualização) Open Source 😍🖥e**
 
 Vídeo mostrando o Hardware utilizado nas aulas do Curso GRÁTIS de Hypervisor Open Source (Free Software) utilizando os Appliances: Proxmox-VE, XCP-NG e o VMware ESXi.
 
@@ -60,9 +60,10 @@ Memoria GLOWAY DDR4 é BOA ??? Review + Testes + Overclock da Memória RAM mais 
 https://www.youtube.com/watch?v=EaQwTN3l0nU&t
 
 👉 Memória OLOy é boa ??? 🔥 RAM DDR4 OLOy WarHawk Alta Frequência com Preço Justo !!!<br>
+https://www.youtube.com/watch?v=J3Or0bcr1PM
 
-[![Apresentação do Hardware](http://img.youtube.com/vi//0.jpg)]( "Apresentação do Hardware")
+[![Apresentação do Hardware](http://img.youtube.com/vi/vS3SVAzp3QU/0.jpg)](https://www.youtube.com/watch?v=vS3SVAzp3QU "Apresentação do Hardware")
 
-Link da vídeo aula: 
+Link da vídeo aula: https://www.youtube.com/watch?v=vS3SVAzp3QU
 
 Link da apresentação utilizada nesse vídeo: https://github.com/vaamonde/hypervisor/blob/main/00-Projeto-Hypervisor-Hardware.pdf
