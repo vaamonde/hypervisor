@@ -22,7 +22,7 @@ Site do VMware: https://www.vmware.com/br.html<br>
 ## **Playlist do YouTUBE com todos os Vídeos dos Hypervisor:**
 Link da Playlist: 
 
-## **🖥😍 Apresentação do Hardware utilizado no Curso de Hypervisor (Virtualização) Open Source 😍🖥e**
+## **🖥😍 Apresentação do Hardware utilizado no Curso de Hypervisor (Virtualização) Open Source 😍🖥**
 
 Vídeo mostrando o Hardware utilizado nas aulas do Curso GRÁTIS de Hypervisor Open Source (Free Software) utilizando os Appliances: Proxmox-VE, XCP-NG e o VMware ESXi.
 
@@ -32,7 +32,7 @@ O Proxmox Virtual Environment é uma plataforma de gerenciamento de virtualizaç
 
 O XCP-ng significa Xen Cloud Platform - New Generation. É uma distribuição turnkey do Xen Project Hypervisor, contando principalmente com o Xen Hypervisor e o projeto Xen API (XAPI). O projeto nasceu em 2018, seguindo a bifurcação do projeto open source Xen Server (agora Citrix Hypervisor).
 
-VMware ESXi é um Hypervisor de nível empresarial tipo 1 desenvolvido pela VMware para implantar e prover maquinas virtuais. Como hypervisor tipo 1, o ESXi não é um software aplicativo instalado em um sistema operacional; em vez disso, inclui e integra componentes vitais do sistema operacional e um unico núcleo.
+VMware ESXi é um Hypervisor de nível empresarial tipo 1 desenvolvido pela VMware para implantar e prover maquinas virtuais. Como hypervisor tipo 1, o ESXi não é um software aplicativo instalado em um sistema operacional; em vez disso, inclui e integra componentes vitais do sistema operacional e um único núcleo.
 
 ![Hardware Hypervisor](00-Projeto-Hypervisor-Hardware.png "Hardware Hypervisor")
 
