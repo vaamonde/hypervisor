@@ -9,13 +9,12 @@
 #Data de criação: 14/07/2021<br>
 #Data de atualização: 14/07/2021<br>
 #Versão: 0.01<br>
-#Testado e homologado no Proxmox-VE v7.x x64 Bit
+#Testado e homologado no XCP-NG v8.x x64 Bit
 
-06/07/2021 - Proxmox Virtual Environment 7.0 released: https://www.proxmox.com/en/news<br>
-Link de Download do Proxmox-VE v7.x: https://www.proxmox.com/en/downloads/category/proxmox-virtual-environment<br>
-Documentação Oficial do Projeto: https://www.proxmox.com/en/downloads/category/documentation-pve
+Link de Download do XCP-NG v8.x: https://xcp-ng.org/#easy-to-install<br>
+Documentação Oficial do Projeto: https://xcp-ng.org/docs/
 
-#Instalação do Proxmox-VE v7.x no Desktop Huananzhi X99-F8 Xeon E5-2678 V3
+#Instalação do XCP-NG v8.x no Desktop Huananzhi X99-F8 Xeon E5-2678 V3
 
 #01_ Software para criação de Pen Drive Bootável<br>
 
@@ -40,7 +39,5 @@ Documentação Oficial do Projeto: https://www.proxmox.com/en/downloads/category
 	
 #04_ Inicialização da Instalação<br>
 
-	_01 Install Proxmox-VE <Enter>
-	_02 End User License Agreement (EULA): <I agree>
-	_03 Target Hard Disk: /dev/nvme0n1 (476GiB, Lexar 512GB SSD): <Next>
-	_04
+	_01 Install XCP-NG <Enter>
+	_02 

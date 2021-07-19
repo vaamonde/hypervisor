@@ -20,7 +20,7 @@ Site do XenProject: https://xenproject.org/<br>
 Site do VMware: https://www.vmware.com/br.html<br>
 
 ## **Playlist do YouTUBE com todos os Vídeos dos Hypervisor:**
-Link da Playlist: 
+Link da Playlist: https://www.youtube.com/playlist?list=PLozhsZB1lLUOF7ibs1q3jkRX4i5scv3XZ
 
 ## **🖥😍 Apresentação do Hardware utilizado no Curso de Hypervisor (Virtualização) Open Source 😍🖥**
 
@@ -67,3 +67,17 @@ https://www.youtube.com/watch?v=J3Or0bcr1PM
 Link da vídeo aula: https://www.youtube.com/watch?v=vS3SVAzp3QU
 
 Link da apresentação utilizada nesse vídeo: https://github.com/vaamonde/hypervisor/blob/main/00-Projeto-Hypervisor-Hardware.pdf
+
+## **🛡 COMO instalar o PROXMOX-VE versão v7.0.1 no Desktop Xeon E5-2678 V3 MB-X99 🛡**
+
+Vídeo mostrando os procedimentos básicos para baixar, criar o pen driver e instalar o Hypervisor Open Source Proxmox-VE versão v7.0.1 no Desktop Xeon E5-2678 V3 utilizando uma Placa Mãe MB-x99.
+
+O Ambiente Virtual Proxmox (Proxmox VE; abreviação PVE) é uma plataforma de gerenciamento de virtualização de servidor de código aberto. É uma distribuição Linux baseada em Debian com um Kernel Ubuntu LTS modificado que permite a implantação e gerenciamento de máquinas virtuais e contêineres. O Proxmox-VE inclui um console da web e ferramentas de linha de comando e fornece uma API REST para ferramentas de terceiros. Dois tipos de virtualização são suportados: baseada em contêiner com LXC (a partir da versão 4.0 substituindo o OpenVZ usado na versão até 3.4) e virtualização completa com KVM. Ele vem com um instalador bare-metal e inclui uma interface de gerenciamento baseada na web. Proxmox-VE é licenciado sob a GNU Affero General Public License versão 3.
+
+Mais informações acesse o site Oficial: https://proxmox.com/en/
+
+[![Instalação do Proxmox-VE](http://img.youtube.com/vi//0.jpg)]( "Instalação do Proxmox-VE")
+
+Link da vídeo aula: 
+
+Link dos procedimentos utilizados nesse vídeo: https://github.com/vaamonde/hypervisor/blob/main/etapas/proxmox-ve/001-InstalacaoDoProxmox-VE.md

@@ -6,16 +6,16 @@
 #Facebook Bora para Prática: https://www.facebook.com/BoraParaPratica<br>
 #Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem<br>
 #YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica<br>
-#Data de criação: 14/07/2021<br>
-#Data de atualização: 14/07/2021<br>
+#Data de criação: 19/07/2021<br>
+#Data de atualização: 19/07/2021<br>
 #Versão: 0.01<br>
-#Testado e homologado no Proxmox-VE v7.x x64 Bit
+#Testado e homologado no VMware ESXi v7.x x64 Bit
 
-06/07/2021 - Proxmox Virtual Environment 7.0 released: https://www.proxmox.com/en/news<br>
-Link de Download do Proxmox-VE v7.x: https://www.proxmox.com/en/downloads/category/proxmox-virtual-environment<br>
-Documentação Oficial do Projeto: https://www.proxmox.com/en/downloads/category/documentation-pve
+Link de Download do VMware ESXi v7.x: https://www.vmware.com/try-vmware.html<br>
+Documentação Oficial do Projeto: https://www.vmware.com/br/products/esxi-and-esx.html<br>
+Downloading and licensing vSphere Hyperviso: https://kb.vmware.com/s/article/2107518?lang=en_US&queryTerm=esxi+free+license
 
-#Instalação do Proxmox-VE v7.x no Desktop Huananzhi X99-F8 Xeon E5-2678 V3
+#Instalação do VMware ESXi v7.x no Desktop Huananzhi X99-F8 Xeon E5-2678 V3
 
 #01_ Software para criação de Pen Drive Bootável<br>
 
@@ -40,7 +40,5 @@ Documentação Oficial do Projeto: https://www.proxmox.com/en/downloads/category
 	
 #04_ Inicialização da Instalação<br>
 
-	_01 Install Proxmox-VE <Enter>
-	_02 End User License Agreement (EULA): <I agree>
-	_03 Target Hard Disk: /dev/nvme0n1 (476GiB, Lexar 512GB SSD): <Next>
-	_04
+	_01 Install VMware ESXi <Enter>
+	_02 
