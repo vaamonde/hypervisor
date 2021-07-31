@@ -68,7 +68,7 @@ Link da vídeo aula: https://www.youtube.com/watch?v=vS3SVAzp3QU
 
 Link da apresentação utilizada nesse vídeo: https://github.com/vaamonde/hypervisor/blob/main/00-Projeto-Hypervisor-Hardware.pdf
 
-## **🛡 COMO instalar o PROXMOX-VE versão v7.0.1 no Desktop Xeon E5-2678 V3 MB-X99 🛡**
+## **🛡 #001_ COMO instalar o PROXMOX-VE versão v7.0 no Desktop Xeon E5-2678 V3 MB-X99 🛡**
 
 Vídeo mostrando os procedimentos básicos para baixar, criar o pen driver e instalar o Hypervisor Open Source Proxmox-VE versão v7.0.1 no Desktop Xeon E5-2678 V3 utilizando uma Placa Mãe MB-x99.
 
@@ -76,8 +76,8 @@ O Ambiente Virtual Proxmox (Proxmox VE; abreviação PVE) é uma plataforma de g
 
 Mais informações acesse o site Oficial: https://proxmox.com/en/
 
-[![Instalação do Proxmox-VE](http://img.youtube.com/vi//0.jpg)]( "Instalação do Proxmox-VE")
+[![Instalação do Proxmox-VE](http://img.youtube.com/vi/829fLZWJ-Bo/0.jpg)](https://www.youtube.com/watch?v=829fLZWJ-Bo "Instalação do Proxmox-VE")
 
-Link da vídeo aula: 
+Link da vídeo aula: https://www.youtube.com/watch?v=829fLZWJ-Bo
 
 Link dos procedimentos utilizados nesse vídeo: https://github.com/vaamonde/hypervisor/blob/main/etapas/proxmox-ve/001-InstalacaoDoProxmox-VE.md
